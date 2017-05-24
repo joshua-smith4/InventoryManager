@@ -11,3 +11,16 @@ C:\Users\Marie Smith\documents\visual studio 2017\Projects\InventoryManager\Inve
 C:\Users\Marie Smith\documents\visual studio 2017\Projects\InventoryManager\InventoryManager\obj\Release\InventoryManager.csproj.GenerateResource.Cache
 C:\Users\Marie Smith\documents\visual studio 2017\Projects\InventoryManager\InventoryManager\obj\Release\InventoryManager.exe
 C:\Users\Marie Smith\documents\visual studio 2017\Projects\InventoryManager\InventoryManager\obj\Release\InventoryManager.pdb
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\bin\Release\database\db.mdf
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\bin\Release\database\db_log.ldf
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\bin\Release\InventoryManager.exe.config
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\bin\Release\InventoryManager.exe
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\bin\Release\InventoryManager.pdb
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\obj\Release\InventoryManager.AddNewOrder.resources
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\obj\Release\InventoryManager.AddNewPurchase.resources
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\obj\Release\InventoryManager.AddProductForm.resources
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\obj\Release\InventoryManager.InvManager.resources
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\obj\Release\InventoryManager.Properties.Resources.resources
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\obj\Release\InventoryManager.csproj.GenerateResource.Cache
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\obj\Release\InventoryManager.exe
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\obj\Release\InventoryManager.pdb

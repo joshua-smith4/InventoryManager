@@ -12,3 +12,17 @@ C:\Users\Marie Smith\Documents\Visual Studio 2017\Projects\InventoryManager\Inve
 C:\Users\Marie Smith\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\bin\Debug\database\db.mdf
 C:\Users\Marie Smith\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\bin\Debug\database\db_log.ldf
 C:\Users\Marie Smith\Documents\Visual Studio 2017\Projects\InventoryManager\InventoryManager\obj\Debug\InventoryManager.AddNewPurchase.resources
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\bin\Debug\database\db.mdf
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\bin\Debug\database\db_log.ldf
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe.config
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\bin\Debug\InventoryManager.pdb
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csprojResolveAssemblyReference.cache
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\obj\Debug\InventoryManager.AddNewOrder.resources
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\obj\Debug\InventoryManager.AddNewPurchase.resources
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\obj\Debug\InventoryManager.AddProductForm.resources
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\obj\Debug\InventoryManager.InvManager.resources
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\obj\Debug\InventoryManager.Properties.Resources.resources
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.GenerateResource.Cache
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\obj\Debug\InventoryManager.exe
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\obj\Debug\InventoryManager.pdb
