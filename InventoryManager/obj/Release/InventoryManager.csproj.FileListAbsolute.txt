@@ -24,3 +24,4 @@ C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\obj\Releas
 C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\obj\Release\InventoryManager.csproj.GenerateResource.Cache
 C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\obj\Release\InventoryManager.exe
 C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\obj\Release\InventoryManager.pdb
+C:\Users\Marie Smith\Desktop\Github\InventoryManager\InventoryManager\obj\Release\InventoryManager.csprojResolveAssemblyReference.cache

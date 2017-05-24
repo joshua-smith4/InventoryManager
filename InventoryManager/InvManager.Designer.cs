@@ -203,6 +203,7 @@ namespace InventoryManager
             // bRemovePurchase
             // 
             this.bRemovePurchase.Location = new System.Drawing.Point(211, 546);
+            this.bRemovePurchase.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.bRemovePurchase.Name = "bRemovePurchase";
             this.bRemovePurchase.Size = new System.Drawing.Size(165, 23);
             this.bRemovePurchase.TabIndex = 3;
@@ -213,6 +214,7 @@ namespace InventoryManager
             // bCompletePurchase
             // 
             this.bCompletePurchase.Location = new System.Drawing.Point(398, 546);
+            this.bCompletePurchase.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.bCompletePurchase.Name = "bCompletePurchase";
             this.bCompletePurchase.Size = new System.Drawing.Size(165, 23);
             this.bCompletePurchase.TabIndex = 2;
@@ -223,6 +225,7 @@ namespace InventoryManager
             // bNewPurchase
             // 
             this.bNewPurchase.Location = new System.Drawing.Point(589, 546);
+            this.bNewPurchase.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.bNewPurchase.Name = "bNewPurchase";
             this.bNewPurchase.Size = new System.Drawing.Size(130, 23);
             this.bNewPurchase.TabIndex = 1;
@@ -285,6 +288,7 @@ namespace InventoryManager
             // bGetNetGain
             // 
             this.bGetNetGain.Location = new System.Drawing.Point(571, 546);
+            this.bGetNetGain.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.bGetNetGain.Name = "bGetNetGain";
             this.bGetNetGain.Size = new System.Drawing.Size(111, 23);
             this.bGetNetGain.TabIndex = 1;
